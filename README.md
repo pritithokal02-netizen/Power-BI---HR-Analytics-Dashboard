@@ -38,11 +38,17 @@ The dashboard includes:
 ## 📁 Files in This Repository
 
 📦 hr-analytics-powerbi
+
 ┣ 📁 data
+
 ┃ ┗ (HR_Analytics.csv)
+
 ┣ 📁 images
+
 ┃ ┗ HR Analytics.png
+
 ┣ 📄 HR Analytics Dashboard.pbix
+
 ┣ 📄 README.md
 
 ---
@@ -97,13 +103,20 @@ You can download the Power BI report file here:
 ---
 
 🚀 Future Improvements
+
 ✔️ Publish to Power BI Service
+
 ✔️ Add auto refresh capabilities
+
 ✔️ Integrate with live HR data source
+
 ✔️ Add more demographic analysis
 
 
 🙌 Contributions
+
 Contributions are welcome!
+
 Create issues or pull requests to improve this project.
+
 
