@@ -41,11 +41,11 @@ The dashboard includes:
 
 ┣ 📁 data
 
-┃ ┗ (HR_Analytics.csv)
+ ┗ (HR_Analytics.csv)
 
 ┣ 📁 images
 
-┃ ┗ HR Analytics.png
+ ┗ HR Analytics.png
 
 ┣ 📄 HR Analytics Dashboard.pbix
 
@@ -112,11 +112,13 @@ You can download the Power BI report file here:
 
 ✔️ Add more demographic analysis
 
+---
 
 🙌 Contributions
 
 Contributions are welcome!
 
 Create issues or pull requests to improve this project.
+
 
 
